@@ -13,8 +13,6 @@
 
 ---
 ## Contact for work:
-<p>M: congvinh0839@gmail.com </p>
-<p>P: 07.777.34787 </p>
 <a href="https://www.facebook.com/Vinhne2k4" target="_blank" alt="FaceBook ở đây nhaaa">FaceBook ở đây nhaaa</a>
 
 ## 🛠 Tech Stack
