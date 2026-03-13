@@ -1,171 +1,122 @@
-<div align="center" style="perspective: 1200px;">
+<!-- Header với hiệu ứng chữ động (sử dụng readme-typing-svg) -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+[Tên+của+bạn];I'm+a+[Nghề+nghiệp];I+love+[Đam+mê];Welcome+to+my+profile!" alt="Typing SVG" />
+  </a>
+</p>
 
-<!-- 3D HEADER CARD -->
-<div style="transform-style: preserve-3d; transform: rotateX(2deg) rotateY(1deg); transition: transform 0.5s; margin: 30px auto; padding: 25px; max-width: 800px; background: linear-gradient(145deg, #0d0d1a, #1a1a2f); border-radius: 30px; box-shadow: 0 20px 40px rgba(0,0,0,0.8), 0 0 0 2px #ffd700 inset, 0 0 20px #ffd700; animation: float 6s ease-in-out infinite;">
-  <h1 style="font-size: 3.5rem; margin: 0; text-shadow: 0 2px 0 #b8860b, 0 4px 0 #8b6910, 0 6px 0 #5e4a1a, 0 8px 10px rgba(0,0,0,0.5); transform: translateZ(20px); color: #ffdf00; letter-spacing: 2px;">✨ Công Vinh (Kenzy) ✨</h1>
-  <h2 style="color: #00bfff; text-shadow: 0 2px 0 #0077be, 0 4px 5px rgba(0,0,0,0.3); transform: translateZ(15px); font-size: 2rem; margin-top: 5px;">Tớ là Vinh đây!</h2>
+<!-- Banner / Capsule (hiệu ứng gradient động) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=[Tên%20của%20bạn]&fontSize=60&fontAlignY=35&desc=Building%20cool%20stuff%20with%20code&descAlignY=55&descAlign=50" width="100%"/>
+</p>
+
+<!-- Badge social (LinkedIn, Email, v.v.) -->
+<p align="center">
+  <a href="[link_linkedin]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:[email_của_bạn]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="[link_twitter]"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="[link_website]"><img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="[link_cv]"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white"/></a>
+</p>
+
+<!-- Giới thiệu ngắn gọn (có thể kèm ảnh đại diện) -->
+<div align="center">
+  <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </div>
 
-<!-- 3D CORGI CARD -->
-<div style="transform-style: preserve-3d; transform: rotateY(3deg) rotateX(1deg); transition: transform 0.5s; margin: 20px auto; padding: 15px; width: fit-content; background: rgba(255,215,0,0.1); backdrop-filter: blur(5px); border-radius: 50%; box-shadow: 0 30px 40px rgba(0,0,0,0.6), 0 0 30px #ffd700, 0 0 0 3px #ffd700 inset;">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWEyMGc0Ymx2eTFzYnNwd2did2ZsZGp4czVvbHdmOWJtdGE3NGozMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bi6RQ5x3tqoSI/giphy.webp" width="200" alt="Corgi waving" style="border-radius: 50%; transform: translateZ(25px); box-shadow: 0 10px 20px rgba(0,0,0,0.5);">
-</div>
+## 🧑‍💻 About Me
+- 🔭 Hiện tại tôi đang làm việc tại **[Công ty]**
+- 🌱 Đang học hỏi và phát triển với **[Công nghệ mới]**
+- 👯 Tôi muốn hợp tác trong các dự án về **[Lĩnh vực]**
+- 💬 Hỏi tôi về bất cứ điều gì liên quan đến **[Kỹ năng]**
+- ⚡ Sự thật thú vị: **[Một điều thú vị về bạn]**
 
-<!-- FOLLOW BADGE 3D -->
-<div style="transform: translateZ(30px); margin: 15px;">
-  <img src="https://img.shields.io/github/followers/Daocongvinh?label=Follow&style=social" alt="GitHub followers" style="transform: scale(1.1); filter: drop-shadow(0 5px 5px gold);">
-</div>
+<br clear="right"/>
 
-<!-- 3D CALL TO ACTION -->
-<h3 style="font-size: 2rem; color: #00bfff; text-shadow: 0 2px 0 #0077be, 0 4px 5px #000, 0 0 20px cyan; transform: perspective(500px) rotateX(2deg); margin: 25px;">👋 THEO DÕI TỚ Ở BÊN DƯỚI NHÉ 👋</h3>
+---
 
-<hr style="border: 2px solid gold; width: 80%; box-shadow: 0 0 20px gold;">
+## 🛠️ Tech Stack & Tools
 
-<!-- CONTACT CARD 3D -->
-<div style="transform-style: preserve-3d; transform: rotateX(1deg); margin: 40px auto; padding: 20px; max-width: 600px; background: linear-gradient(145deg, #1a1a2f, #0f0f1f); border-radius: 40px; box-shadow: 0 25px 50px rgba(0,0,0,0.9), 0 0 0 2px #b8860b inset, 0 0 30px #b8860b;">
-  <h2 style="color: gold; text-shadow: 0 2px 0 #8b6910; transform: translateZ(15px);">📬 Contact for work:</h2>
-  <a href="https://www.facebook.com/Vinhne2k4" target="_blank" style="display: inline-block; padding: 15px 40px; font-size: 1.8rem; font-weight: bold; color: white; background: linear-gradient(45deg, #ffd700, #b8860b); border-radius: 60px; text-decoration: none; box-shadow: 0 20px 30px rgba(0,0,0,0.5), 0 0 20px gold; transform: translateZ(25px) scale(1); transition: all 0.3s; border: 2px solid white;">🔵 FaceBook ở đây nhaaa</a>
-</div>
+<!-- Badge kỹ năng - có thể thay bằng công nghệ bạn dùng -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
-<!-- TECH STACK SECTIONS WITH 3D CARDS -->
-<style>
-  /* 3D hover effects for badges */
-  .badge3d {
-    display: inline-block;
-    margin: 8px;
-    transition: transform 0.3s, filter 0.3s;
-    transform: perspective(400px) translateZ(0) rotateY(0deg);
-  }
-  .badge3d:hover {
-    transform: perspective(400px) translateZ(30px) rotateY(5deg);
-    filter: drop-shadow(0 15px 15px gold);
-  }
-  .section-card {
-    transform-style: preserve-3d;
-    transform: rotateY(1deg) rotateX(1deg);
-    transition: transform 0.5s;
-    background: linear-gradient(145deg, #121225, #080814);
-    border-radius: 50px;
-    padding: 25px 20px;
-    margin: 40px auto;
-    max-width: 1100px;
-    box-shadow: 0 30px 60px rgba(0,0,0,0.9), 0 0 0 3px #9370db inset, 0 0 40px #9370db;
-  }
-  .section-card:hover {
-    transform: rotateY(2deg) rotateX(2deg) scale(1.01);
-  }
-  .section-title {
-    font-size: 2.5rem;
-    color: #ffd700;
-    text-shadow: 0 3px 0 #8b6910, 0 0 30px cyan;
-    transform: translateZ(25px);
-    margin-top: 0;
-    margin-bottom: 20px;
-    border-bottom: 3px solid gold;
-    display: inline-block;
-    padding-bottom: 8px;
-  }
-  body {
-    background: #0a0a0f;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  }
-  @keyframes float {
-    0% { transform: rotateX(2deg) rotateY(1deg) translateY(0px); }
-    50% { transform: rotateX(3deg) rotateY(2deg) translateY(-8px); }
-    100% { transform: rotateX(2deg) rotateY(1deg) translateY(0px); }
-  }
-</style>
+---
 
-<!-- Ngôn ngữ lập trình -->
-<div class="section-card">
-  <h2 class="section-title">🛠 Ngôn ngữ lập trình</h2>
-  <div style="text-align: center;">
-    <span class="badge3d"><img src="https://img.shields.io/badge/-Python-333?style=flat&logo=python" /></span>
-    <span class="badge3d"><img src="https://img.shields.io/badge/-C-333?style=flat&logo=c" /></span>
-    <span class="badge3d"><img src="https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5" /></span>
-    <span class="badge3d"><img src="https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3&logoColor=1572B6" /></span>
-    <span class="badge3d"><img src="https://img.shields.io/badge/-SQL-333?style=flat&logo=sql" /></span>
-    <span class="badge3d"><img src="https://img.shields.io/badge/-Java-333?style=flat&logo=java" /></span>
-    <span class="badge3d"><img src="https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript" /></span>
-    <span class="badge3d"><img src="https://img.shields.io/badge/-Swift-333?style=flat&logo=swift" /></span>
-    <span class="badge3d"><img src="https://img.shields.io/badge/-Lua-333?style=flat&logo=lua" /></span>
-    <span class="badge3d"><img src="https://img.shields.io/badge/-Flutter-333?style=flat&logo=flutter" /></span>
-  </div>
-</div>
+## 📊 GitHub Stats
 
-<!-- Cơ sở dữ liệu -->
-<div class="section-card">
-  <h2 class="section-title">🗄️ Cơ sở dữ liệu</h2>
-  <div style="text-align: center;">
-    <span class="badge3d"><img src="https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql" /></span>
-    <span class="badge3d"><img src="https://img.shields.io/badge/-SQLite-333?style=flat&logo=sqlite" /></span>
-    <span class="badge3d"><img src="https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql" /></span>
-    <span class="badge3d"><img src="https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb" /></span>
-  </div>
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[username]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=[username]&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
 
-<!-- Frameworks & Libraries -->
-<div class="section-card">
-  <h2 class="section-title">📚 Frameworks & Libraries</h2>
-  <div style="text-align: center;">
-    <span class="badge3d"><img src="https://img.shields.io/badge/-Django-333?style=flat&logo=django" /></span>
-    <span class="badge3d"><img src="https://img.shields.io/badge/-Flask-333?style=flat&logo=flask" /></span>
-    <span class="badge3d"><img src="https://img.shields.io/badge/-Spark-333?style=flat&logo=spark" /></span>
-    <span class="badge3d"><img src="https://img.shields.io/badge/-Selenium-333?style=flat&logo=selenium" /></span>
-    <span class="badge3d"><img src="https://img.shields.io/badge/-Scrapy-333?style=flat&logo=scrapy" /></span>
-    <span class="badge3d"><img src="https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas" /></span>
-    <span class="badge3d"><img src="https://img.shields.io/badge/-NumPy-333?style=flat&logo=numpy" /></span>
-    <span class="badge3d"><img src="https://img.shields.io/badge/-Matplotlib-333?style=flat&logo=matplotlib" /></span>
-    <span class="badge3d"><img src="https://img.shields.io/badge/-Seaborn-333?style=flat&logo=seaborn" /></span>
-  </div>
-</div>
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[username]&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p>
 
-<!-- Công cụ phát triển -->
-<div class="section-card">
-  <h2 class="section-title">🛠️ Công cụ phát triển</h2>
-  <div style="text-align: center;">
-    <span class="badge3d"><img src="https://img.shields.io/badge/-Git-333?style=flat&logo=git" /></span>
-    <span class="badge3d"><img src="https://img.shields.io/badge/-GitHub-333?style=flat&logo=github" /></span>
-    <span class="badge3d"><img src="https://img.shields.io/badge/-Docker-333?style=flat&logo=docker" /></span>
-    <span class="badge3d"><img src="https://img.shields.io/badge/-Anaconda-333?style=flat&logo=anaconda" /></span>
-    <span class="badge3d"><img src="https://img.shields.io/badge/-Jupyter-333?style=flat&logo=jupyter" /></span>
-    <span class="badge3d"><img src="https://img.shields.io/badge/-Google%20Colab-333?style=flat&logo=googlecolab" /></span>
-    <span class="badge3d"><img src="https://img.shields.io/badge/-PyCharm-333?style=flat&logo=pycharm" /></span>
-    <span class="badge3d"><img src="https://img.shields.io/badge/-Spyder-333?style=flat&logo=spyder" /></span>
-  </div>
-</div>
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[username]&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" width="95%"/>
+</p>
 
-<!-- Công cụ văn phòng & hệ điều hành -->
-<div class="section-card">
-  <h2 class="section-title">💼 Công cụ văn phòng & OS</h2>
-  <div style="text-align: center;">
-    <span class="badge3d"><img src="https://img.shields.io/badge/-Microsoft%20Word-333?style=flat&logo=microsoftword" /></span>
-    <span class="badge3d"><img src="https://img.shields.io/badge/-Microsoft%20Excel-333?style=flat&logo=microsoftexcel" /></span>
-    <span class="badge3d"><img src="https://img.shields.io/badge/-Canva-333?style=flat&logo=canva" /></span>
-    <span class="badge3d"><img src="https://img.shields.io/badge/-Figma-333?style=flat&logo=figma" /></span>
-    <span class="badge3d"><img src="https://img.shields.io/badge/-macOS-333?style=flat&logo=apple" /></span>
-    <span class="badge3d"><img src="https://img.shields.io/badge/-Linux-333?style=flat&logo=linux" /></span>
-    <span class="badge3d"><img src="https://img.shields.io/badge/-Windows-333?style=flat&logo=windows" /></span>
-  </div>
-</div>
+---
 
-<!-- EXPERIENCE 3D CARD -->
-<div class="section-card" style="background: linear-gradient(145deg, #1a0f2e, #0f0a1f);">
-  <h2 class="section-title">💼 Experience</h2>
-  <div style="transform: translateZ(20px); color: #fff; font-size: 1.2rem; text-align: left; padding: 15px;">
-    <h3 style="color: #ffd700;">💻 Software Developer | Freelancer</h3>
-    <p><em>May 2024 — Present</em></p>
-    <ul style="list-style-type: none; padding-left: 0;">
-      <li style="margin: 10px 0;">✨ Làm việc tự do về xử lý và phân tích phần mềm.</li>
-      <li style="margin: 10px 0;">✨ Viết code về các phần mềm cho Android và Desktop.</li>
-    </ul>
-  </div>
-</div>
+## 🚀 Featured Projects
 
-<!-- 3D FOOTER -->
-<div style="margin: 50px auto; transform-style: preserve-3d; transform: rotateX(1deg);">
-  <img src="https://media.giphy.com/media/3o7aD4cy9buCWf4fdG/giphy.gif" width="300" alt="coding animation" style="border-radius: 30px; box-shadow: 0 30px 50px rgba(255,215,0,0.5), 0 0 0 4px gold; transform: translateZ(30px);">
-  <h2 style="color: gold; text-shadow: 0 2px 0 #8b6910, 0 0 30px white; font-size: 2.5rem; transform: translateZ(25px);">Cảm ơn bạn đã ghé thăm trang của mình!</h2>
-</div>
+<!-- Có thể dùng thẻ card từ GitHub Readme Stats hoặc tự tạo bảng -->
+<p align="center">
+  <a href="https://github.com/[username]/[repo1]">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=[username]&repo=[repo1]&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/[username]/[repo2]">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=[username]&repo=[repo2]&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+</p>
 
-</div>
+<p align="center">
+  <a href="https://github.com/[username]/[repo3]">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=[username]&repo=[repo3]&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/[username]/[repo4]">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=[username]&repo=[repo4]&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="[link_linkedin]"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href="mailto:[email_của_bạn]"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+  <a href="[link_twitter]"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+  <a href="[link_instagram]"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+  <a href="[link_facebook]"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
+</p>
+
+<!-- Footer với hình ảnh động vui nhộn -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"/>
+</p>
+
+<!-- Credit và cảm ơn -->
+<p align="center">
+  <i>Thanks for visiting! 😊</i>
+</p>
+
+<!-- Snake animation (tự động cập nhật) - optional -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/[username]/[username]/output/snake.svg?palette=github-dark" alt="Snake animation" />
+</p>
